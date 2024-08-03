@@ -57,30 +57,30 @@ npm run dev
 ```
 
 Usage
-Backend
+# Backend
 
-# Access the Application: Open your browser and navigate to http://localhost:3000 (frontend) or use the configured domain in production.
+ Access the Application: Open your browser and navigate to http://localhost:3000 (frontend) or use the configured domain in production.
 
-# Authentication: Register a new account or log in with an existing account.
+ Authentication: Register a new account or log in with an existing account.
 
-# Search for Countries: Use the search bar to enter a currency code and view detailed information about countries.
+Search for Countries: Use the search bar to enter a currency code and view detailed information about countries.
 
-# Manage Favorites: Add countries to your favorites list and view them from the favorites page.
+ Manage Favorites: Add countries to your favorites list and view them from the favorites page.
 
-# View Search History: Access your recent searches from the history section.
+ View Search History: Access your recent searches from the history section.
 
 
-Frontend
+# Frontend
 
-# Access the Application: Open your browser and navigate to http://localhost:3000.
+ Access the Application: Open your browser and navigate to http://localhost:3000.
 
-# Register or Log In: Use the authentication forms to create a new account or log in with an existing one.
+ Register or Log In: Use the authentication forms to create a new account or log in with an existing one.
 
-# Search for Countries: Enter a currency code in the search bar to fetch and view country details.
+ Search for Countries: Enter a currency code in the search bar to fetch and view country details.
 
-# Manage Favorites: Add or remove countries from your favorites list and view them on the favorites page.
+ Manage Favorites: Add or remove countries from your favorites list and view them on the favorites page.
 
-# View Search History: See your recent searches and quickly access past queries.
+ View Search History: See your recent searches and quickly access past queries.
 
 
 Deployment
