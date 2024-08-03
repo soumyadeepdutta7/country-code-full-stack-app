@@ -27,3 +27,21 @@ The Country Info App is a full-stack single-page application that provides detai
    ```bash
    git clone <repository-url>
    cd backend
+
+   Install dependencies:
+
+bash
+ 
+npm install
+Create a .env file in the backend directory with the following content:
+
+env
+ 
+PORT=5000
+MONGO_URI=<your-mongodb-uri>
+JWT_SECRET=<your-jwt-secret>
+Start the server:
+
+bash
+ 
+npm start
