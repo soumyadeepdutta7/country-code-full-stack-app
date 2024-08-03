@@ -27,6 +27,6 @@ The Country Info App is a full-stack single-page application that provides detai
    ```bash
    git clone <repository-url>
    cd backend
-```Install dependencies:
-     npm install
+Install dependencies:
+    ```npm install
 
